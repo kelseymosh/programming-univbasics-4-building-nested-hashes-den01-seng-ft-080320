@@ -1,1 +1,6 @@
-bash_hash = {railroad: ""}
+def monopoly
+	monopoly = {}
+	monopoly = {
+		:railroads=>{}
+	}
+end
