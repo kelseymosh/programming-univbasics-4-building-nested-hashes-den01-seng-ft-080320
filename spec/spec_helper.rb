@@ -1,1 +1,1 @@
-bash_hash = {:railroad}
+bash_hash = {railroad: ""}
